@@ -1,0 +1,41 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="lead">Index Page</span>
+    </div>
+    <div class="row">
+        <div class="col-md-offset-9 col-md-3">
+            <span class="text-warning">{{error}}</span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-offset-9 col-md-3">
+            <input type="text" ng-model="searchTerm" class="form-control input-sm" placeholder="search" />
+        </div>
+    </div>
+    <div class="tablecontainer">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Birth Date</th>
+                    <th>Gender</th>
+                    <th>Email</th>
+                    <th>Country</th>
+                    <th>Subscriptions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="obj in objects | filter: searchTerm">
+                    <td><span ng-bind="obj.name"></span></td>
+                    <td><span ng-bind="obj.birthdate"></span></td>
+                    <td><span ng-bind="obj.gender"></span></td>
+                    <td><span ng-bind="obj.email"></span></td>
+                    <td><span ng-bind="obj.country"></span></td>
+                    <td><span>News: {{ obj.subscription.News }}</span><br/>
+                        <span> Jobs: {{ obj.subscription.Jobs }}</span><br/>
+                        <span> Messages: {{ obj.subscription.Messages }}</span><br/></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>

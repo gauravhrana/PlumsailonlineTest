@@ -1,0 +1,109 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <span class="lead">Entry Form </span>
+    </div>
+    <div class="row">
+        <div class="col-md-offset-9 col-md-3">
+            <span class="text-warning">{{error}}</span>
+        </div>
+    </div>
+    <div class="formcontainer">
+        <form name="objectForm" class="form-horizontal" novalidate>
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="uname">Name</label>
+                    <div class="col-md-7">
+                        <input type="text" ng-model="object.name" id="uname" class="name form-control input-sm" placeholder="Enter your name" required
+                            ng-minlength="3" />
+
+                        <div class="has-error" ng-show="myForm.$dirty">
+                            <span ng-show="objectForm.name.$error.required">This is a required field</span>
+                            <span ng-show="objectForm.name.$error.minlength">Minimum length required is 3</span>
+                            <span ng-show="objectForm.name.$invalid">This field is invalid </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="birthdate">Birth Date</label>
+                    <div class="col-md-6">
+                        <input type="text" class="form-control birthdate input-sm" uib-datepicker-popup="dd.MM.yyyy" ng-model="object.birthdate"
+                            is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" />
+                    </div>
+                    <div class="col-md-1"><span class="input-group-btn">
+                            <button type="button" class="btn btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="gender">Gender</label>
+                    <div class="col-md-7">
+                        <input type="radio" name="gender" ng-model="object.gender" value="male" checked> Male<br>
+                        <input type="radio" name="gender" ng-model="object.gender" value="female"> Female<br>
+                        <input type="radio" name="gender" ng-model="object.gender" value="other"> Other
+                        <div class="has-error" ng-show="objectForm.$dirty">
+                            <span ng-show="objectForm.gender.$error.required">This is a required field</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="email">Email</label>
+                    <div class="col-md-7">
+                        <input type="email" ng-model="object.email" id="email" class="email form-control input-sm" placeholder="Enter your Email"
+                            required/>
+                        <div class="has-error" ng-show="objectForm.$dirty">
+                            <span ng-show="objectForm.email.$error.required">This is a required field</span>
+                            <span ng-show="objectForm.email.$invalid">This field is invalid </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="country">Country</label>
+                    <div class="col-md-7">
+                        <select name="country" ng-model="object.country" class="country form-control input-sm" required>            
+                            <option text="USA">USA</option>
+                            <option text="Russia">Russia</option>
+                            <option text="India">India</option>
+                            <option text="Other">Other</option>
+                        </select>
+                        <div class="has-error" ng-show="objectForm.$dirty">
+                            <span ng-show="objectForm.country.$error.required">This is a required field</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="subscription">Subscription</label>
+                    <div class="col-md-7">
+                        <input type="checkbox" name="subscription1" ng-model="object.subscription.News" value="News">News<br>
+                        <input type="checkbox" name="subscription2" ng-model="object.subscription.Jobs" value="Jobs">Jobs<br>
+                        <input type="checkbox" name="subscription2" ng-model="object.subscription.Messages" value="Messages">Messages
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-actions floatRight">
+
+                    <input type="submit" ng-click="submitForm()" value="Add" class="btn btn-primary btn-sm" ng-disabled="objectForm.$invalid">
+
+                    <button type="button" ng-click="resetForm()" class="btn btn-warning btn-sm" ng-disabled="objectForm.$pristine">Reset Form</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

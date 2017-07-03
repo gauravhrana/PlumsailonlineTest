@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objectRepository>
+  <object>
+    <name>GHR</name>
+    <birthdate>25-Jun-17 6:30:00 PM</birthdate>
+    <gender>male</gender>
+    <email>ghr@ghr.com</email>
+    <country>India</country>
+    <subscription>
+      <News>True</News>
+      <Jobs>True</Jobs>
+      <Messages>False</Messages>
+    </subscription>
+  </object>
+  <object>
+    <name>bhai@bhai</name>
+    <birthdate>25-Jun-17 6:30:00 PM</birthdate>
+    <email>bhai@bhai</email>
+    <gender>male</gender>
+    <subscription>
+      <News>True</News>
+      <Jobs>False</Jobs>
+      <Messages>False</Messages>
+    </subscription>
+    <country>Russia</country>
+  </object>
+  <object>
+    <name>gaurav</name>
+    <email>ghr@ghr.com</email>
+    <gender>male</gender>
+    <country>USA</country>
+    <birthdate>22-Jul-17 6:30:00 PM</birthdate>
+    <subscription>
+      <News>True</News>
+      <Messages>False</Messages>
+      <Jobs>True</Jobs>
+    </subscription>
+  </object>
+  <object>
+    <name>ashish</name>
+    <email>abca@abc.com</email>
+    <gender>male</gender>
+    <country>Russia</country>
+    <birthdate>21-Jul-17 6:30:00 PM</birthdate>
+    <subscription>
+      <News>True</News>
+      <Messages>False</Messages>
+      <Jobs>True</Jobs>
+    </subscription>
+  </object>
+</objectRepository>
