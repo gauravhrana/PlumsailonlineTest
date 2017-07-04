@@ -1,0 +1,112 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 02:31:14
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 02:31:14 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 178.20.55.18 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 http://hundejo.com/ patang.in 200 0 0 2715 228 343
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 06:30:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 06:30:00 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 132 223 93
+2017-05-27 06:30:02 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/ - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 652 315 1406
+2017-05-27 06:38:13 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 36.255.226.213 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 200 0 0 2715 373 328
+2017-05-27 06:38:14 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 36.255.226.213 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 http://patang.in/ patang.in 404 0 2 132 336 312
+2017-05-27 06:38:21 W3SVC368 SAFFRON 143.95.251.86 GET /web.config - 80 - 36.255.226.213 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 http://patang.in/ patang.in 404 8 0 151 411 265
+2017-05-27 06:38:26 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 36.255.226.213 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 404 0 2 132 377 296
+2017-05-27 06:42:59 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/.gitignore - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 3 50 132 325 15
+2017-05-27 06:43:48 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/.npmignore - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 3 50 132 325 0
+2017-05-27 06:47:09 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/HELP-US-OUT.txt - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 646 330 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 09:36:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 09:36:30 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/logo.png - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 2636 200 124
+2017-05-27 09:36:30 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/car.svg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 4390 199 15
+2017-05-27 09:46:25 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/loan.svg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 4966 200 15
+2017-05-27 09:46:25 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/home.svg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 28837 200 31
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 10:06:33
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 10:06:33 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/truck.svg - 80 - 66.249.73.27 Googlebot-Image/1.0 - www.patang.in 200 0 0 29128 201 1265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 10:22:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 10:22:22 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/win/lib/ - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 517 307 109
+2017-05-27 10:33:49 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/win/lib/netstandard1.3/ - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 583 322 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 11:43:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 11:43:26 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/other/ - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 651 311 203
+2017-05-27 11:53:52 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/other/axis-bank.jpg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 9609 211 15
+2017-05-27 11:54:36 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/other/tvs.png - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 6248 205 31
+2017-05-27 12:06:15 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/other/tata-capital.jpg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 11116 214 15
+2017-05-27 12:06:16 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/other/hdfc-bank.jpeg - 80 - 66.249.73.27 Googlebot-Image/1.0 - www.patang.in 200 0 0 3154 212 15
+2017-05-27 12:16:16 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/other/capital-first.jpg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 4162 215 0
+2017-05-27 12:16:17 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/other/reliance-capital.jpg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 5629 218 15
+2017-05-27 12:31:09 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/other/kotak-mahindra-bank.jpg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 3492 221 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 13:26:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 13:26:16 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/ft-logo.png - 80 - 66.249.73.27 Googlebot-Image/1.0 - www.patang.in 200 0 0 3996 203 93
+2017-05-27 13:37:07 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/slider-2.jpg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 242610 204 46
+2017-05-27 13:38:40 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/used-car.svg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 11277 204 15
+2017-05-27 13:40:15 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/slider-3.jpg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 166057 204 15
+2017-05-27 13:41:37 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/mortgage.svg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 2996 204 15
+2017-05-27 13:43:15 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/slider-1.jpg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 99199 204 31
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 14:56:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 14:56:11 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/credit-card.svg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 3306 207 93
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 15:36:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 15:36:20 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/page-header.jpg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 97437 207 171
+2017-05-27 15:46:19 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/cd-top-arrow.svg - 80 - 66.249.73.27 Googlebot-Image/1.0 - www.patang.in 200 0 0 2425 208 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 16:16:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 16:16:13 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/page-header-car.jpg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 242611 211 124
+2017-05-27 16:16:13 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/car-page-header.jpg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 238117 211 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 16:40:35
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 16:40:35 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/home-loan-slider.jpg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 57345 212 109
+2017-05-27 16:41:04 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 202.71.3.172 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 200 0 0 2711 373 453
+2017-05-27 16:41:05 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 202.71.3.172 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 http://patang.in/ patang.in 404 0 2 132 336 296
+2017-05-27 16:41:10 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 202.71.3.172 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 404 0 2 132 377 296
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 17:06:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 17:06:24 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/mortgage-page-header.jpg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 47422 216 109
+2017-05-27 17:16:29 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/mortgate-loan-slider.jpg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 30814 216 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 17:56:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 17:56:23 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/commercial-vehicle-page-header.jpg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 53157 226 109
+2017-05-27 17:57:20 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/commercial-vehicle-loan-slider.jpg - 80 - 66.249.73.26 Googlebot-Image/1.0 - www.patang.in 200 0 0 22701 226 31
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 21:57:37
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 21:57:36 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 132 223 93
+2017-05-27 21:57:36 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/bower.json - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 679 325 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 22:14:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 22:14:40 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/.bower.json - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 983 326 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-27 22:56:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-27 22:56:09 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 46.229.164.101 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - www.patang.in 404 0 2 151 203 124

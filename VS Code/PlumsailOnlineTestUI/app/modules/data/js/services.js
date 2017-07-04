@@ -4,15 +4,18 @@ angular.module('Data')
         function ($http) {
             var service = {};
 
+            var apiUrl = "http://patang.in/api/object";
+            //var apiUrl = "http://localhost:50528/api/object"
+
             service.GetData = function () {
-                return $http.get('http://patang.in/api/object')
+                return $http.get(apiUrl)
                     .then(function (response) {
                         return response.data;
                     });
             }
 
             service.SaveData = function (formData) {
-                return $http.post('http://patang.in/api/object', { formData: formData })
+                return $http.post(apiUrl, { formData: formData })
                     .then(function (response) {
                         return response.data;
                     });

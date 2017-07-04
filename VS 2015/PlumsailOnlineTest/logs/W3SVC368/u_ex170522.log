@@ -1,0 +1,95 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 06:57:51
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 06:57:50 W3SVC530 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 77.88.47.108 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 404 0 2 5061 179 265
+2017-05-22 06:57:55 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 5.255.250.60 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 200 0 0 1234 213 359
+2017-05-22 07:11:56 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 77.88.47.60 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 200 0 0 1234 274 171
+2017-05-22 07:11:56 W3SVC530 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 141.8.143.205 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.patang.in 404 0 2 5065 183 140
+2017-05-22 07:12:01 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 77.88.47.14 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.patang.in 200 0 0 1234 278 203
+2017-05-22 07:18:54 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 139.226.144.64 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+5.1;+.NET+CLR+2.0.50727 http://www.marinetraffic.com patang.in 200 0 0 1234 212 234
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 09:34:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 09:34:47 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 200 0 0 1234 373 515
+2017-05-22 09:34:48 W3SVC530 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 http://patang.in/ patang.in 404 0 2 5063 336 265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 09:58:02
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 09:58:01 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4729 399 359
+2017-05-22 09:59:31 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4729 399 265
+2017-05-22 10:00:07 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4729 399 265
+2017-05-22 10:07:50 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 403 14 0 5284 399 281
+2017-05-22 10:07:58 W3SVC530 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 404 0 2 5049 377 265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 10:45:08
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 10:45:07 W3SVC530 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 104.131.22.162 Mozilla/5.0+(compatible;+spbot/5.0.3;++http://OpenLinkProfiler.org/bot+) - patang.in 500 19 13 4739 268 125
+2017-05-22 10:45:07 W3SVC530 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 104.131.22.162 Mozilla/5.0+(compatible;+spbot/5.0.3;++http://OpenLinkProfiler.org/bot+) - www.patang.in 500 19 13 4743 272 46
+2017-05-22 10:45:13 W3SVC530 SAFFRON 143.95.251.86 GET / - 80 - 104.131.22.162 Mozilla/5.0+(compatible;+spbot/5.0.3;++http://OpenLinkProfiler.org/bot+) - www.patang.in 500 19 13 4733 262 46
+2017-05-22 10:48:33 W3SVC530 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4733 403 281
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 10:59:28
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 10:59:27 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 200 0 0 1214 373 781
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 11:16:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 11:16:53 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4729 399 281
+2017-05-22 11:16:59 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4733 377 281
+2017-05-22 11:17:04 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4733 403 281
+2017-05-22 11:19:29 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4733 403 296
+2017-05-22 11:24:13 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4733 403 328
+2017-05-22 11:30:42 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 - patang.in 500 19 13 4729 366 2515
+2017-05-22 11:30:43 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 http://patang.in/ patang.in 500 19 13 4740 329 578
+2017-05-22 11:30:45 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4733 403 265
+2017-05-22 11:30:50 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4729 373 265
+2017-05-22 11:35:41 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4729 399 265
+2017-05-22 11:35:48 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4733 377 281
+2017-05-22 11:42:33 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 - patang.in 500 19 13 4729 366 250
+2017-05-22 11:42:34 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 http://patang.in/ patang.in 500 19 13 4740 329 265
+2017-05-22 11:42:42 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 - patang.in 500 19 13 4729 392 249
+2017-05-22 11:42:43 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 http://patang.in/ patang.in 500 19 13 4740 329 1062
+2017-05-22 11:47:37 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 64.74.215.146 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.76+Safari/537.36 - patang.in 500 19 13 4729 314 46
+2017-05-22 11:58:02 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 500 19 13 4733 403 265
+2017-05-22 12:08:20 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 - patang.in 200 0 0 2704 392 374
+2017-05-22 12:08:21 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 http://patang.in/ patang.in 404 0 2 1405 329 265
+2017-05-22 12:10:17 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 - patang.in 200 0 0 2706 392 1218
+2017-05-22 12:12:25 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 404 0 2 132 403 312
+2017-05-22 12:12:28 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 404 0 2 132 403 312
+2017-05-22 12:14:22 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 404 0 2 132 403 312
+2017-05-22 12:14:25 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 200 0 0 2706 373 328
+2017-05-22 12:15:47 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 43.248.37.212 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 404 0 2 132 377 953
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 15:46:41
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 15:46:40 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 169.54.244.93 - - patang.in 200 0 0 12930 32 234
+2017-05-22 15:48:58 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 157.55.39.110 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - patang.in 200 0 0 2706 388 46
+2017-05-22 15:51:00 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 40.77.167.135 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - patang.in 404 0 2 132 242 46
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 17:17:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 17:17:12 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.65.34 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 132 223 124
+2017-05-22 17:17:13 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 66.249.65.34 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 2710 290 125
+2017-05-22 17:19:21 W3SVC368 SAFFRON 143.95.251.86 GET /refs/ - 80 - 66.249.65.34 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 2424 295 15
+2017-05-22 17:20:23 W3SVC368 SAFFRON 143.95.251.86 GET /bower.json - 80 - 66.249.65.30 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 3 50 132 300 15
+2017-05-22 17:20:54 W3SVC368 SAFFRON 143.95.251.86 GET /web.config - 80 - 66.249.65.30 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 8 0 151 300 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 20:20:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 20:20:49 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 46.229.168.71 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - www.patang.in 200 0 0 2729 193 281
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-22 21:00:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-22 21:00:02 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 - patang.in 200 0 0 2706 366 453
+2017-05-22 21:00:02 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 http://patang.in/ patang.in 404 0 2 132 329 296
+2017-05-22 21:00:20 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.ApplicationInsights.dll - 80 - 1.186.48.58 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.81+Safari/537.36 http://patang.in/ patang.in 200 0 0 148992 427 9015

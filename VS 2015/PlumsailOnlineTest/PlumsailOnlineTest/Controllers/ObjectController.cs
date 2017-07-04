@@ -1,9 +1,7 @@
-﻿using Newtonsoft.Json;
+﻿using log4net;
 using Newtonsoft.Json.Linq;
-using System.Collections;
+using System;
 using System.Collections.Generic;
-using System.Dynamic;
-using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Hosting;
@@ -13,12 +11,17 @@ using System.Xml;
 
 namespace PlumsailOnlineTest.Controllers
 {
-    [EnableCors("http://localhost:1001,http://patang.in", headers: "*", methods: "*")]
+    //[EnableCors("http://patang.in", headers: "*", methods: "*")]
+    [EnableCors("http://localhost:1001, http://patang.in", headers: "*", methods: "*")]
     public class ObjectController : ApiController
     {
+
+        private static readonly ILog Log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+
         // GET: api/Object
         public List<JObject> Get()
         {
+            Log.Debug("GET Request traced");
 
             var xmlDocObj = new XmlDocument();
 
@@ -63,47 +66,59 @@ namespace PlumsailOnlineTest.Controllers
 
         // POST: api/Object
         [HttpPost]
-        public IHttpActionResult Post(JObject formData)
+        public HttpResponseMessage Post(JObject formData)
         {
-
-
-            var xmlDocObj = new XmlDocument();
-
-            //loading XML File in memory  
-            xmlDocObj.Load(HostingEnvironment.MapPath("~/data/ObjectData.xml"));
-
-            //getting the root node
-            var rootNode = xmlDocObj.SelectSingleNode("objectRepository");
-
-            // creating child element
-            var objNode = rootNode.AppendChild(xmlDocObj.CreateNode(XmlNodeType.Element, "object", string.Empty));
-
-            // get to actual data and create nodes accordingly
-            foreach (KeyValuePair<string, JToken> sub_obj in (JObject)formData["formData"])
+            try
             {
-                var subNode = objNode.AppendChild(xmlDocObj.CreateNode(XmlNodeType.Element, sub_obj.Key, string.Empty));
-                var key = sub_obj.Key;
+                Log.Debug("IN Post Method");
 
-                if (sub_obj.Value.HasValues)
+                var xmlDocObj = new XmlDocument();
+
+                //loading XML File in memory  
+                xmlDocObj.Load(HostingEnvironment.MapPath("~/data/ObjectData.xml"));
+
+                //getting the root node
+                var rootNode = xmlDocObj.SelectSingleNode("objectRepository");
+
+                // creating child element
+                var objNode = rootNode.AppendChild(xmlDocObj.CreateNode(XmlNodeType.Element, "object", string.Empty));
+
+                // get to actual data and create nodes accordingly
+                foreach (KeyValuePair<string, JToken> sub_obj in (JObject)formData["formData"])
                 {
-                    var child = (JObject)sub_obj.Value;
-                    foreach (KeyValuePair<string, JToken> child_obj in child)
+                    var subNode = objNode.AppendChild(xmlDocObj.CreateNode(XmlNodeType.Element, sub_obj.Key, string.Empty));
+                    var key = sub_obj.Key;
+
+                    if (sub_obj.Value.HasValues)
                     {
-                        subNode.AppendChild(xmlDocObj.CreateNode(XmlNodeType.Element, child_obj.Key, string.Empty)).InnerText = child_obj.Value.ToString();
+                        var child = (JObject)sub_obj.Value;
+                        foreach (KeyValuePair<string, JToken> child_obj in child)
+                        {
+                            subNode.AppendChild(xmlDocObj.CreateNode(XmlNodeType.Element, child_obj.Key, string.Empty)).InnerText = child_obj.Value.ToString();
+                        }
+                    }
+                    else
+                    {
+                        var val = sub_obj.Value.ToString();
+                        subNode.InnerText = val;
                     }
                 }
-                else
-                {
-                    var val = sub_obj.Value.ToString();
-                    subNode.InnerText = val;
-                }
+
+                Log.Debug("Prepared main object node");
+
+                //save node to the xml file
+                xmlDocObj.Save(HostingEnvironment.MapPath("~/data/ObjectData.xml"));
+
+                Log.Debug("Saved in Object Data xml file");
+
+                //return Ok(new { success = true });
+                return Request.CreateResponse(HttpStatusCode.OK, new { success = true });
             }
-
-            //save node to the xml file
-            xmlDocObj.Save(HostingEnvironment.MapPath("~/ObjectData.xml"));
-
-            return Ok(new { success = true });
-
+            catch (Exception ex)
+            {
+                Log.Error("Error: " + ex.Message);
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, " Employee Not Found");
+            }
         }
 
         // PUT: api/Object/5

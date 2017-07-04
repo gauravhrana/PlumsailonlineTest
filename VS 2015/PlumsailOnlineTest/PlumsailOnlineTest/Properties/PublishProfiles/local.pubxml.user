@@ -9,6 +9,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <_PublishTargetUrl>F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailOnlineTest\published</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="bin/log4net.dll">
+      <publishTime>08/03/2017 19:26:22</publishTime>
+    </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>06/15/2015 02:06:24</publishTime>
     </File>
@@ -16,7 +19,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/03/2014 20:33:56</publishTime>
     </File>
     <File Include="bin/PlumsailOnlineTest.dll">
-      <publishTime>03/07/2017 23:55:41</publishTime>
+      <publishTime>07/04/2017 15:49:32</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>06/18/2015 20:19:46</publishTime>
@@ -79,10 +82,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/03/2017 22:19:05</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>07/01/2017 18:06:45</publishTime>
+      <publishTime>04/07/2017 15:11:11</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/03/2017 23:29:05</publishTime>
+      <publishTime>04/07/2017 15:40:00</publishTime>
     </File>
   </ItemGroup>
 </Project>

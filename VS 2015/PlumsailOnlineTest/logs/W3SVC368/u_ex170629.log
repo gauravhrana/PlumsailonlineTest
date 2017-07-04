@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-29 05:42:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-29 05:42:16 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.65.69 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 223 78
+2017-06-29 05:42:16 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/normalize.less - 80 - 66.249.65.69 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 331 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-29 11:06:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-29 11:06:13 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 46.229.164.99 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - www.patang.in 404 0 2 128 203 109
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-29 15:27:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-29 15:27:57 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 94.242.246.24 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 http://pizza-tycoon.com/ patang.in 200 0 0 1214 233 359
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-29 17:49:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-29 17:49:00 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 106.51.141.28 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 200 0 0 1214 379 734
+2017-06-29 17:49:02 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 106.51.141.28 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 http://patang.in/ patang.in 404 0 2 109 342 281
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-29 20:17:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-29 20:17:12 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 80.248.225.157 DomainCrawler/3.0+(info@domaincrawler.com;+http://www.domaincrawler.com/patang.in) - patang.in 404 0 2 128 206 234
+2017-06-29 20:17:13 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 80.248.225.157 DomainCrawler/3.0+(info@domaincrawler.com;+http://www.domaincrawler.com/patang.in) - patang.in 200 0 0 2659 196 296
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-29 20:59:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-29 20:59:29 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 46.229.168.78 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - www.patang.in 200 0 0 1233 193 265
+2017-06-29 21:03:31 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.65.69 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 223 0
+2017-06-29 21:03:41 W3SVC368 SAFFRON 143.95.251.86 GET /Views/ - 80 - 66.249.65.69 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 296 15

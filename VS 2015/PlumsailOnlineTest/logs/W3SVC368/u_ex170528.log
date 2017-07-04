@@ -1,0 +1,277 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 00:56:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 00:56:22 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/css/ - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 556 319 218
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 01:26:37
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 01:26:37 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/less/ - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 784 320 187
+2017-05-28 01:32:06 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/scss/ - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 779 320 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 01:55:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 01:55:46 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/fonts/ - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 620 321 203
+2017-05-28 01:59:13 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 162.210.196.130 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - patang.in 404 0 2 132 157 31
+2017-05-28 01:59:16 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 162.210.196.130 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - patang.in 200 0 0 12930 334 62
+2017-05-28 02:08:27 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/font-awesome/fonts/fontawesome-webfont.svg - 80 - 66.249.73.28 Googlebot-Image/1.0 - www.patang.in 200 0 0 447304 231 62
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 03:52:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 03:51:59 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 103.37.181.94 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 200 0 0 2711 373 453
+2017-05-28 03:52:00 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 103.37.181.94 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 http://patang.in/ patang.in 404 0 2 132 336 312
+2017-05-28 03:52:04 W3SVC368 SAFFRON 143.95.251.86 GET /home - 80 - 103.37.181.94 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 404 0 2 132 377 328
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 05:49:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 05:49:47 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 5.255.250.52 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 404 0 2 132 179 250
+2017-05-28 05:49:47 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 5.255.250.24 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.patang.in 404 0 2 132 183 156
+2017-05-28 05:49:51 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 100.43.91.7 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 200 0 0 2711 274 140
+2017-05-28 05:50:02 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 141.8.143.220 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.patang.in 200 0 0 2715 278 140
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 10:46:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 10:46:12 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 404 0 2 132 157 156
+2017-05-28 10:46:28 W3SVC368 SAFFRON 143.95.251.86 GET /BouncyCastle.Crypto.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 357 15
+2017-05-28 10:47:02 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.ApplicationInsights.AspNetCore.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 401 31
+2017-05-28 10:47:20 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.ApplicationInsights.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 31
+2017-05-28 10:47:29 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Antiforgery.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 393 31
+2017-05-28 10:47:37 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Authorization.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 15
+2017-05-28 10:47:50 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Cors.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 386 31
+2017-05-28 10:48:06 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Cryptography.Internal.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 403 31
+2017-05-28 10:48:33 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.DataProtection.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 409 15
+2017-05-28 10:49:01 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.DataProtection.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 31
+2017-05-28 10:49:10 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Diagnostics.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 406 15
+2017-05-28 10:49:19 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Diagnostics.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 393 31
+2017-05-28 10:49:38 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Hosting.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 402 31
+2017-05-28 10:49:53 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Hosting.Server.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 409 31
+2017-05-28 10:50:07 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Hosting.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 15
+2017-05-28 10:50:17 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Html.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 399 31
+2017-05-28 10:50:28 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Http.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 399 15
+2017-05-28 10:51:07 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Http.Extensions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 31
+2017-05-28 10:51:24 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Http.Features.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 15
+2017-05-28 10:51:42 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Http.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 386 31
+2017-05-28 10:52:04 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.HttpOverrides.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 15
+2017-05-28 10:52:16 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.JsonPatch.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 391 31
+2017-05-28 10:52:28 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Localization.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 394 31
+2017-05-28 10:52:39 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 398 15
+2017-05-28 10:52:50 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.ApiExplorer.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 31
+2017-05-28 10:52:57 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.Core.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 31
+2017-05-28 10:53:05 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.Cors.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 15
+2017-05-28 10:53:14 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.DataAnnotations.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 401 31
+2017-05-28 10:53:24 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.Formatters.Json.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 401 31
+2017-05-28 10:53:38 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.Localization.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 398 15
+2017-05-28 10:53:42 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.Razor.Host.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 31
+2017-05-28 10:54:02 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.Razor.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 391 15
+2017-05-28 10:54:10 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.TagHelpers.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 31
+2017-05-28 10:54:35 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.ViewFeatures.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 398 31
+2017-05-28 10:54:47 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Mvc.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 385 31
+2017-05-28 10:54:58 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Razor.Runtime.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 31
+2017-05-28 10:55:05 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Razor.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 15
+2017-05-28 10:55:20 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.ResponseCaching.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 410 15
+2017-05-28 10:55:38 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Routing.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 402 31
+2017-05-28 10:56:01 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Routing.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 31
+2017-05-28 10:56:15 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Server.IISIntegration.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 403 15
+2017-05-28 10:56:26 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.Server.Kestrel.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 31
+2017-05-28 10:56:35 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.StaticFiles.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 393 15
+2017-05-28 11:04:46 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.AspNetCore.WebUtilities.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 418 15
+2017-05-28 11:04:47 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.DotNet.PlatformAbstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 398 15
+2017-05-28 11:04:52 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Caching.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 402 15
+2017-05-28 11:04:57 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Caching.Memory.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 15
+2017-05-28 11:05:03 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Configuration.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 408 15
+2017-05-28 11:05:17 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Configuration.Binder.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 402 0
+2017-05-28 11:05:26 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Configuration.EnvironmentVariables.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 416 15
+2017-05-28 11:05:44 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Configuration.FileExtensions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 410 15
+2017-05-28 11:05:49 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Configuration.Json.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 400 15
+2017-05-28 11:05:53 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Configuration.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 15
+2017-05-28 11:06:06 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.DependencyInjection.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 414 15
+2017-05-28 11:06:19 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.DependencyInjection.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 401 15
+2017-05-28 11:06:27 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.DependencyModel.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 15
+2017-05-28 11:06:36 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.DiagnosticAdapter.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 399 15
+2017-05-28 11:06:44 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.FileProviders.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 408 15
+2017-05-28 11:06:55 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.FileProviders.Composite.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 405 15
+2017-05-28 11:07:01 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.FileProviders.Physical.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 404 0
+2017-05-28 11:07:20 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.FileSystemGlobbing.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 400 15
+2017-05-28 11:07:28 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Globalization.CultureInfoCache.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 412 15
+2017-05-28 11:07:51 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Localization.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 407 0
+2017-05-28 11:08:05 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Localization.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 394 0
+2017-05-28 11:08:19 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Logging.Abstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 402 15
+2017-05-28 11:08:30 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Logging.Console.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 15
+2017-05-28 11:08:43 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Logging.Debug.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 15
+2017-05-28 11:08:49 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Logging.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 15
+2017-05-28 11:08:54 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.ObjectPool.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 392 0
+2017-05-28 11:09:13 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Options.ConfigurationExtensions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 413 15
+2017-05-28 11:09:22 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Options.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 15
+2017-05-28 11:09:31 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.PlatformAbstractions.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 402 15
+2017-05-28 11:09:42 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.Primitives.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 392 0
+2017-05-28 11:09:50 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Extensions.WebEncoders.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 393 15
+2017-05-28 11:10:05 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.Net.Http.Headers.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 15
+2017-05-28 11:10:22 W3SVC368 SAFFRON 143.95.251.86 GET /Microsoft.VisualStudio.Web.BrowserLink.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 399 15
+2017-05-28 11:10:33 W3SVC368 SAFFRON 143.95.251.86 GET /MimeKit.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 368 15
+2017-05-28 11:10:40 W3SVC368 SAFFRON 143.95.251.86 GET /Newtonsoft.Json.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 376 15
+2017-05-28 11:10:46 W3SVC368 SAFFRON 143.95.251.86 GET /RushangFinance.deps.json - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 381 15
+2017-05-28 11:10:56 W3SVC368 SAFFRON 143.95.251.86 GET /RushangFinance.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 375 0
+2017-05-28 11:11:05 W3SVC368 SAFFRON 143.95.251.86 GET /RushangFinance.pdb - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 404 3 50 132 375 15
+2017-05-28 11:11:21 W3SVC368 SAFFRON 143.95.251.86 GET /RushangFinance.runtimeconfig.json - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 0
+2017-05-28 11:11:41 W3SVC368 SAFFRON 143.95.251.86 GET /System.Collections.NonGeneric.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 15
+2017-05-28 11:11:49 W3SVC368 SAFFRON 143.95.251.86 GET /System.Collections.Specialized.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 391 15
+2017-05-28 11:11:56 W3SVC368 SAFFRON 143.95.251.86 GET /System.ComponentModel.Primitives.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 393 15
+2017-05-28 11:12:05 W3SVC368 SAFFRON 143.95.251.86 GET /System.ComponentModel.TypeConverter.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 15
+2017-05-28 11:12:09 W3SVC368 SAFFRON 143.95.251.86 GET /System.Data.Common.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 379 15
+2017-05-28 11:12:16 W3SVC368 SAFFRON 143.95.251.86 GET /System.Diagnostics.Contracts.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 15
+2017-05-28 11:12:43 W3SVC368 SAFFRON 143.95.251.86 GET /System.Diagnostics.StackTrace.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 15
+2017-05-28 11:12:49 W3SVC368 SAFFRON 143.95.251.86 GET /System.Net.WebSockets.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 382 15
+2017-05-28 11:13:02 W3SVC368 SAFFRON 143.95.251.86 GET /System.Runtime.CompilerServices.Unsafe.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 399 0
+2017-05-28 11:13:07 W3SVC368 SAFFRON 143.95.251.86 GET /System.Runtime.Serialization.Primitives.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 400 0
+2017-05-28 11:13:17 W3SVC368 SAFFRON 143.95.251.86 GET /System.Text.Encodings.Web.dll - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 386 15
+2017-05-28 11:13:24 W3SVC368 SAFFRON 143.95.251.86 GET /Views/ - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 545 363 156
+2017-05-28 11:13:30 W3SVC368 SAFFRON 143.95.251.86 GET /appsettings.json - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 373 15
+2017-05-28 11:13:52 W3SVC368 SAFFRON 143.95.251.86 GET /bower.json - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 367 15
+2017-05-28 11:13:57 W3SVC368 SAFFRON 143.95.251.86 GET /refs/ - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 2421 362 46
+2017-05-28 11:14:15 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/ - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 525 366 15
+2017-05-28 11:14:25 W3SVC368 SAFFRON 143.95.251.86 GET /web.config - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 404 8 0 151 367 46
+2017-05-28 11:14:41 W3SVC368 SAFFRON 143.95.251.86 GET /web1.config - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 404 7 0 151 368 31
+2017-05-28 11:14:50 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/ - 80 - 192.151.152.98 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 557 365 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 11:35:38
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 11:35:37 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 132 223 93
+2017-05-28 11:35:37 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Loan/Index.cshtml - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 2975 313 124
+2017-05-28 11:36:27 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/Thumbs.db - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 3 50 132 314 15
+2017-05-28 11:36:52 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Shared/Error.cshtml - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 2979 315 15
+2017-05-28 11:37:17 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/favicon.ico - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 1400 316 0
+2017-05-28 11:38:07 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Loan/HomeLoan.cshtml - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 2981 316 0
+2017-05-28 11:38:32 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Shared/_Layout.cshtml - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 2983 317 15
+2017-05-28 11:38:57 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Loan/NewCarLoan.cshtml - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 2985 318 15
+2017-05-28 11:39:22 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Loan/UsedCarLoan.cshtml - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 2987 319 15
+2017-05-28 11:39:47 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Loan/MortgageLoan.cshtml - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 2989 320 0
+2017-05-28 11:40:12 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Loan/_RequiredDocuments.cshtml - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 3001 326 0
+2017-05-28 11:40:37 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Loan/CommercialVehicleLoan.cshtml - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 403 0 0 3007 329 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 16:11:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 16:11:58 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 5.255.250.12 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.patang.in 404 0 2 132 183 250
+2017-05-28 16:12:02 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 100.43.81.141 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.patang.in 404 0 2 132 228 31
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 18:58:04
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 18:58:04 W3SVC368 SAFFRON 143.95.251.86 GET /wp-login.php - 80 - 199.15.233.147 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - patang.in 404 0 2 132 220 93
+2017-05-28 18:58:04 W3SVC368 SAFFRON 143.95.251.86 GET /wp-login.php - 80 - 199.15.233.147 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - patang.in 404 0 2 132 197 296
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-28 23:33:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-28 23:33:40 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 46.229.164.101 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - www.patang.in 404 0 2 151 203 187
+2017-05-28 23:41:31 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 404 0 2 132 157 31
+2017-05-28 23:41:35 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Home/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 620 345 171
+2017-05-28 23:41:40 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Loan/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 638 368 31
+2017-05-28 23:41:42 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Shared/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 527 370 15
+2017-05-28 23:41:48 W3SVC368 SAFFRON 143.95.251.86 GET /Views/_ViewStart.cshtml - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 403 0 0 2975 380 31
+2017-05-28 23:41:52 W3SVC368 SAFFRON 143.95.251.86 GET /refs/Microsoft.CSharp.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 382 31
+2017-05-28 23:41:57 W3SVC368 SAFFRON 143.95.251.86 GET /refs/Microsoft.CodeAnalysis.CSharp.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 14
+2017-05-28 23:42:03 W3SVC368 SAFFRON 143.95.251.86 GET /refs/Microsoft.CodeAnalysis.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 388 15
+2017-05-28 23:42:08 W3SVC368 SAFFRON 143.95.251.86 GET /refs/Microsoft.VisualBasic.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 15
+2017-05-28 23:42:14 W3SVC368 SAFFRON 143.95.251.86 GET /refs/Microsoft.Win32.Primitives.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 392 15
+2017-05-28 23:42:19 W3SVC368 SAFFRON 143.95.251.86 GET /refs/Microsoft.Win32.Registry.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 15
+2017-05-28 23:42:23 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.AppContext.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 383 31
+2017-05-28 23:42:28 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Buffers.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 380 31
+2017-05-28 23:42:33 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Collections.Concurrent.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 31
+2017-05-28 23:42:38 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Collections.Immutable.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 394 31
+2017-05-28 23:42:42 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Collections.NonGeneric.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 15
+2017-05-28 23:42:48 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Collections.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 384 15
+2017-05-28 23:42:53 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.ComponentModel.Annotations.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 399 15
+2017-05-28 23:42:59 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.ComponentModel.Primitives.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 398 15
+2017-05-28 23:43:05 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.ComponentModel.TypeConverter.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 401 31
+2017-05-28 23:43:12 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.ComponentModel.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 31
+2017-05-28 23:43:16 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Console.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 380 31
+2017-05-28 23:43:20 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Data.Common.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 384 31
+2017-05-28 23:43:23 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Diagnostics.Contracts.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 394 31
+2017-05-28 23:43:26 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Diagnostics.Debug.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 31
+2017-05-28 23:43:30 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Diagnostics.DiagnosticSource.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 401 15
+2017-05-28 23:43:36 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Diagnostics.Process.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 392 15
+2017-05-28 23:43:41 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Diagnostics.StackTrace.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 15
+2017-05-28 23:43:43 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Diagnostics.Tools.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 390 15
+2017-05-28 23:43:51 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Diagnostics.Tracing.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 392 15
+2017-05-28 23:43:57 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Dynamic.Runtime.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 388 31
+2017-05-28 23:44:00 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Globalization.Calendars.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 31
+2017-05-28 23:44:05 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Globalization.Extensions.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 15
+2017-05-28 23:44:09 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Globalization.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 386 31
+2017-05-28 23:44:12 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.IO.Compression.ZipFile.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 31
+2017-05-28 23:44:17 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.IO.Compression.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 15
+2017-05-28 23:44:20 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.IO.FileSystem.Primitives.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 31
+2017-05-28 23:44:25 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.IO.FileSystem.Watcher.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 394 31
+2017-05-28 23:44:30 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.IO.FileSystem.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 386 31
+2017-05-28 23:44:36 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.IO.MemoryMappedFiles.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 393 31
+2017-05-28 23:44:42 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.IO.UnmanagedMemoryStream.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 15
+2017-05-28 23:44:44 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.IO.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 375 15
+2017-05-28 23:44:49 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Linq.Expressions.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 31
+2017-05-28 23:44:53 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Linq.Parallel.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 386 15
+2017-05-28 23:44:58 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Linq.Queryable.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 31
+2017-05-28 23:45:02 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Linq.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 377 31
+2017-05-28 23:45:05 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.Http.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 381 15
+2017-05-28 23:45:10 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.NameResolution.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 391 31
+2017-05-28 23:45:15 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.NetworkInformation.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 395 15
+2017-05-28 23:45:25 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.Primitives.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 16
+2017-05-28 23:45:27 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.Requests.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 385 15
+2017-05-28 23:45:30 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.Security.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 385 31
+2017-05-28 23:45:36 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.Sockets.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 384 31
+2017-05-28 23:45:41 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.WebHeaderCollection.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 15
+2017-05-28 23:45:45 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Net.WebSockets.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 15
+2017-05-28 23:45:50 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Numerics.Vectors.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 15
+2017-05-28 23:45:55 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.ObjectModel.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 384 31
+2017-05-28 23:46:00 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.DispatchProxy.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 15
+2017-05-28 23:46:05 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.Emit.ILGeneration.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 401 31
+2017-05-28 23:46:10 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.Emit.Lightweight.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 400 31
+2017-05-28 23:46:13 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.Emit.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 388 15
+2017-05-28 23:46:15 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.Extensions.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 394 15
+2017-05-28 23:46:19 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.Metadata.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 392 31
+2017-05-28 23:46:22 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.Primitives.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 394 15
+2017-05-28 23:46:28 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.TypeExtensions.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 398 15
+2017-05-28 23:46:33 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Reflection.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 383 31
+2017-05-28 23:46:37 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Resources.Reader.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 31
+2017-05-28 23:46:40 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Resources.ResourceManager.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 398 31
+2017-05-28 23:46:43 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Runtime.Extensions.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 391 15
+2017-05-28 23:46:48 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Runtime.Handles.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 388 31
+2017-05-28 23:46:54 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Runtime.InteropServices.RuntimeInformation.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 415 31
+2017-05-28 23:47:00 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Runtime.InteropServices.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 15
+2017-05-28 23:47:02 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Runtime.Loader.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 387 31
+2017-05-28 23:47:06 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Runtime.Numerics.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 31
+2017-05-28 23:47:10 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Runtime.Serialization.Primitives.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 405 31
+2017-05-28 23:47:15 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Runtime.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 380 31
+2017-05-28 23:47:19 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Security.Claims.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 388 15
+2017-05-28 23:47:21 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Security.Cryptography.Algorithms.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 405 15
+2017-05-28 23:47:26 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Security.Cryptography.Encoding.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 403 15
+2017-05-28 23:47:28 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Security.Cryptography.Primitives.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 405 15
+2017-05-28 23:47:34 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Security.Cryptography.X509Certificates.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 411 15
+2017-05-28 23:47:38 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Security.Principal.Windows.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 399 265
+2017-05-28 23:47:44 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Security.Principal.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 391 31
+2017-05-28 23:47:47 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Text.Encoding.CodePages.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 31
+2017-05-28 23:47:53 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Text.Encoding.Extensions.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 15
+2017-05-28 23:47:55 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Text.Encoding.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 386 15
+2017-05-28 23:47:58 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Text.RegularExpressions.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 396 31
+2017-05-28 23:48:03 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Threading.Tasks.Dataflow.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 15
+2017-05-28 23:48:05 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Threading.Tasks.Extensions.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 399 15
+2017-05-28 23:48:08 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Threading.Tasks.Parallel.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 397 31
+2017-05-28 23:48:12 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Threading.Tasks.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 388 15
+2017-05-28 23:48:15 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Threading.Thread.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 31
+2017-05-28 23:48:17 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Threading.ThreadPool.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 393 15
+2017-05-28 23:48:20 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Threading.Timer.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 388 31
+2017-05-28 23:48:24 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Threading.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 382 31
+2017-05-28 23:48:29 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Xml.ReaderWriter.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 389 15
+2017-05-28 23:48:31 W3SVC368 SAFFRON 143.95.251.86 GET /refs/System.Xml.XDocument.dll - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 406 0 0 137 386 15
+2017-05-28 23:48:34 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/linux/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 502 372 93
+2017-05-28 23:48:37 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/osx/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 500 370 31
+2017-05-28 23:48:40 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/unix/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 502 371 15
+2017-05-28 23:48:44 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/win/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 500 370 31
+2017-05-28 23:48:48 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/css/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 570 369 31
+2017-05-28 23:48:51 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/images/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 969 372 15
+2017-05-28 23:48:55 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/js/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 715 368 15
+2017-05-28 23:49:01 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/ - 80 - 204.12.208.10 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - patang.in 200 0 0 602 369 31

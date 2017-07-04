@@ -12,6 +12,8 @@ namespace PlumsailOnlineTest
 
             config.EnableCors();
 
+            log4net.Config.XmlConfigurator.Configure();
+
             // Web API configuration and services
 
             // Web API routes

@@ -1,0 +1,114 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 02:19:02
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 02:19:02 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 46.229.164.98 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - www.patang.in 404 0 2 128 203 187
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 04:15:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 04:15:13 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 223 125
+2017-06-03 04:15:26 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 1214 290 265
+2017-06-03 04:20:03 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 180.76.15.142 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - patang.in 404 0 2 128 211 187
+2017-06-03 04:20:03 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 180.76.15.153 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - patang.in 404 0 2 128 211 187
+2017-06-03 04:23:38 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 180.76.15.28 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - patang.in 200 0 0 1233 211 234
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 05:53:21
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 05:53:20 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/badges.less - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 328 109
+2017-06-03 05:53:56 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/owl.carousel/src/js/ - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 322 93
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 06:32:34
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 06:32:33 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/jquery/src/queue/ - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 319 203
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 07:16:43
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 07:16:43 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 144.76.8.132 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - www.patang.in 404 0 2 128 156 203
+2017-06-03 07:16:46 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 144.76.8.132 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - www.patang.in 200 0 0 2659 357 250
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 07:57:32
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 07:57:32 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/owl.carousel/.gitattributes - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 329 78
+2017-06-03 07:58:57 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/owl.carousel/CONTRIBUTING.md - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 330 15
+2017-06-03 08:08:25 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 163.172.4.153 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:52.0)+Gecko/20100101+Firefox/52.0 http://patang.in/ patang.in 200 0 0 1214 270 234
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 09:55:21
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 09:55:20 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/jquery/dist/jquery.slim.min.map - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 333 78
+2017-06-03 09:55:55 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/tables.less - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 328 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 10:44:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 10:44:17 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/jquery/src/deferred/ - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 322 234
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 11:55:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 11:55:16 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/navs.less - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 326 93
+2017-06-03 12:00:21 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 62.210.103.72 - - www.patang.in 200 0 0 2659 58 218
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 15:15:32
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 15:15:32 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 100.43.85.15 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 404 0 2 109 179 109
+2017-06-03 15:15:32 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 84.201.133.70 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.patang.in 404 0 2 109 183 156
+2017-06-03 15:15:36 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 100.43.85.12 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 200 0 0 1214 274 124
+2017-06-03 15:15:37 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 5.255.250.20 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.patang.in 200 0 0 1214 278 171
+2017-06-03 15:27:22 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/.csslintrc - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 327 15
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 16:07:02
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 16:07:02 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/linux/lib/netstandard1.3/ - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 324 187
+2017-06-03 16:21:26 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 223 15
+2017-06-03 16:21:26 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/js/.jshintrc - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 324 46
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 16:37:38
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 16:37:38 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/code.less - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 326 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 17:47:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 17:47:49 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/type.less - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 326 93
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 18:09:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 18:09:25 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/navs.less - 80 - 66.249.73.6 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 326 78
+2017-06-03 18:22:30 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 84.201.133.31 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 200 0 0 1214 213 265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 19:41:14
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 19:41:14 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/grid.less - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 326 93
+2017-06-03 19:52:02 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/theme.less - 80 - 66.249.73.27 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 327 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 20:40:38
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 20:40:38 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/jquery/src/.eslintrc.json - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 327 78
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 20:59:33
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 20:59:33 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 5.255.250.24 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 404 0 2 109 179 156
+2017-06-03 20:59:36 W3SVC368 SAFFRON 143.95.251.86 GET /runtimes/linux/ - 80 - 84.201.133.51 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 404 0 2 109 228 265
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 21:38:14
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 21:38:14 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/less/close.less - 80 - 66.249.73.28 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 327 78
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-06-03 23:49:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-06-03 23:49:56 W3SVC368 SAFFRON 143.95.251.86 GET /wwwroot/lib/bootstrap/dist/fonts/ - 80 - 66.249.73.26 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 109 323 187

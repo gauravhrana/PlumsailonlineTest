@@ -29,3 +29,5 @@ F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailOnlineTest\PlumsailOnl
 F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\bin\System.Web.Cors.dll
 F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\bin\System.Web.Http.Cors.dll
 F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\bin\System.Web.Http.Cors.xml
+F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\bin\log4net.dll
+F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\bin\log4net.xml

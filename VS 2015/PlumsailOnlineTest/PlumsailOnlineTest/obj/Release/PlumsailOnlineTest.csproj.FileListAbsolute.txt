@@ -29,3 +29,5 @@ F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnl
 F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\obj\Release\PlumsailOnlineTest.dll
 F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\obj\Release\PlumsailOnlineTest.pdb
 F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\obj\Release\PlumsailOnlineTest.csprojResolveAssemblyReference.cache
+F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\bin\log4net.dll
+F:\MyCode\LiveProjects\PlumsailonlineTest\VS 2015\PlumsailonlineTest\PlumsailOnlineTest\bin\log4net.xml

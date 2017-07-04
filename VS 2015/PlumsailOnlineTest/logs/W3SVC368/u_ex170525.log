@@ -1,0 +1,28 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-25 10:22:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-25 10:22:19 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.65.30 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 404 0 2 132 223 93
+2017-05-25 10:22:20 W3SVC368 SAFFRON 143.95.251.86 GET /Views/Shared/ - 80 - 66.249.65.30 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.patang.in 200 0 0 531 303 171
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-25 12:42:51
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-25 12:42:50 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 46.229.164.101 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - www.patang.in 404 0 2 151 203 93
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-25 14:56:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-25 14:56:38 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 141.8.143.215 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 404 0 2 132 179 218
+2017-05-25 14:56:43 W3SVC368 SAFFRON 143.95.251.86 GET /web.config1 - 80 - 5.255.250.32 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - patang.in 404 3 50 132 224 156
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-25 18:56:33
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-25 18:56:33 W3SVC368 SAFFRON 143.95.251.86 GET / - 80 - 95.213.184.251 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - patang.in 200 0 0 12930 165 515
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-05-25 23:59:08
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2017-05-25 23:59:08 W3SVC368 SAFFRON 143.95.251.86 GET /robots.txt - 80 - 66.249.65.155 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - patang.in 404 0 2 132 219 78
+2017-05-25 23:59:08 W3SVC368 SAFFRON 143.95.251.86 GET /favicon.ico - 80 - 66.249.65.155 Googlebot-Image/1.0 - patang.in 404 0 2 132 184 46
