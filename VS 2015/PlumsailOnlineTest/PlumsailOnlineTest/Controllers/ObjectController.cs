@@ -13,7 +13,7 @@ using System.Xml;
 
 namespace PlumsailOnlineTest.Controllers
 {
-    [EnableCors("http://localhost:1001", headers: "*", methods: "*")]
+    [EnableCors("http://localhost:1001,http://patang.in", headers: "*", methods: "*")]
     public class ObjectController : ApiController
     {
         // GET: api/Object
@@ -23,7 +23,7 @@ namespace PlumsailOnlineTest.Controllers
             var xmlDocObj = new XmlDocument();
 
             //loading XML File in memory  
-            xmlDocObj.Load(HostingEnvironment.MapPath("~/ObjectData.xml"));
+            xmlDocObj.Load(HostingEnvironment.MapPath("~/data/ObjectData.xml"));
 
             //getting the root node
             var rootNode = xmlDocObj.SelectSingleNode("objectRepository");
@@ -70,7 +70,7 @@ namespace PlumsailOnlineTest.Controllers
             var xmlDocObj = new XmlDocument();
 
             //loading XML File in memory  
-            xmlDocObj.Load(HostingEnvironment.MapPath("~/ObjectData.xml"));
+            xmlDocObj.Load(HostingEnvironment.MapPath("~/data/ObjectData.xml"));
 
             //getting the root node
             var rootNode = xmlDocObj.SelectSingleNode("objectRepository");

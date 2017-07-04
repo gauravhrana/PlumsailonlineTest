@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objectRepository>
+  <object>
+    <name>Gaurav Rana</name>
+    <birthdate>1-Feb-87 6:30:00 PM</birthdate>
+    <gender>male</gender>
+    <email>contact@ghrana.com</email>
+    <country>India</country>
+    <subscription>
+      <News>True</News>
+      <Jobs>True</Jobs>
+      <Messages>False</Messages>
+    </subscription>
+  </object>
+</objectRepository>

@@ -48,8 +48,10 @@ angular.module('Save')
                         $location.path('/');
                     },
                     function (response) { // Error callback
+                        $location.path('/');
+                        //console.log("Error from API: " + response.data);
                         // Handle error state
-                        $scope.error = "Sorry, API seems to be unavailable this time. Can not Insert data."
+                        //$scope.error = "Sorry, API seems to be unavailable this time. Can not Insert data."
                     })
             }
         }])

@@ -4,7 +4,7 @@ var uglify = require('gulp-uglify');
 var htmlmin = require('gulp-htmlmin');
 var cleanCSS = require('gulp-clean-css');
 
-gulp.task('copyHtml', function(){
+gulp.task('copyHtml', function () {
     gulp.src('index.html')
         .pipe(gulp.dest('dist'));
 
@@ -13,6 +13,9 @@ gulp.task('copyHtml', function(){
 
     gulp.src('app/modules/save/views/save.html')
         .pipe(gulp.dest('dist/app/modules/save/views/'));
+
+    gulp.src('fonts/*.*')
+        .pipe(gulp.dest('dist/fonts/'));
 });
 
 // minify all external js and put in dist/js folder

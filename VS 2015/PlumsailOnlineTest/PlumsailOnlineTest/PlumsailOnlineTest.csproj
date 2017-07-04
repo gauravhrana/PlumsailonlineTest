@@ -90,8 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="index.html" />
-    <Content Include="ObjectData.xml" />
+    <Content Include="data\ObjectData.xml" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -106,6 +105,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\local.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
